@@ -7,5 +7,12 @@
             "Vlr. Funrural": 1980.42,
             "referência": "Janeiro"
         }
+    ],
+    "conta":[
+        {
+            "saldoatu": "100.000,00",
+            "faturaatu": "2.000,00",
+            "ttdebitos": "50.000,00"
+        }
     ]
 }
