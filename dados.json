@@ -30,7 +30,12 @@
                     "local": "Supermercado Cooprata LTDA",
                     "valor": "5000,00"
                 }
-            ]  
+            ],  
+            "contacorrent":[
+                {
+                    "saldoatu": "55.045,00"
+                }
+            ]
         }
     ]
 }
