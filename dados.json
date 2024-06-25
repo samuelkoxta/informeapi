@@ -12,12 +12,14 @@
         {
             "credito":[
                 {
+                    "tipo": "credito",
                     "local": "Matriz",
                     "valor": "1250,00"
                 }
             ],
             "debito":[
                 {
+                    "tipo": "debito",
                     "local": "Loja Agropecúaria",
                     "valor": "2000,00"
                 }
