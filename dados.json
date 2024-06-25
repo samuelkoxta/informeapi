@@ -10,9 +10,18 @@
     ],
     "conta":[
         {
-            "saldoatu": "100.000,00",
-            "faturaatu": "2.000,00",
-            "ttdebitos": "50.000,00"
+            "credito":[
+                {
+                    "local": "Matriz",
+                    "valor": "1250,00"
+                }
+            ],
+            "debito":[
+                {
+                    "local": "Loja Agropecúaria",
+                    "valor": "2000,00"
+                }
+            ] 
         }
     ]
 }
