@@ -1,11 +1,78 @@
 {
     "informe":[
         {
-            "Litragem": 422937,
-            "Rendimentos": 990212.23,
-            "Vlr. Frete": "Unnamed: 4",
-            "Vlr. Funrural": 1980.42,
-            "referência": "Janeiro"
+            "mes01":[
+                {
+                    "referência": "Janeiro",
+                    "Litragem": 422937,
+                    "Rendimentos": 990212.23,
+                    "Vlr. Funrural": 1980.42,
+                    "Vlr. Frete": 0.00
+                }
+            ],
+            "mes02":[
+                {
+                    "referência": "Fevereiro",
+                    "Litragem": 407034,
+                    "Rendimentos": 1001547.87,
+                    "Vlr. Funrural": 2003.10,
+                    "Vlr. Frete": 0.00
+                }
+            ],
+            "mes03":[
+                {
+                    "referência": "Março",
+                    "Litragem": 439843,
+                    "Rendimentos": 1162680.98,
+                    "Vlr. Funrural": 2325.36,
+                    "Vlr. Frete": 0.00
+                }
+            ],
+            "mes04":[
+                {
+                    "referência": "Abril",
+                    "Litragem": 407698,
+                    "Rendimentos": 1133155.83,
+                    "Vlr. Funrural": 2266.31,
+                    "Vlr. Frete": 0.00
+                }
+            ],
+            "mes05":[
+                {
+                    "referência": "Maio",
+                    "Litragem": 417572,
+                    "Rendimentos": 1267833.05,
+                    "Vlr. Funrural": 2535.67,
+                    "Vlr. Frete": 0.00
+                }
+            ],
+            "mes06":[
+                {
+                    "referência": "Junho",
+                    "Litragem": 422937,
+                    "Rendimentos": 990212.23,
+                    "Vlr. Funrural": 1980.42,
+                    "Vlr. Frete": "Unnamed: 4"
+                }
+            ],
+            "mes07":[
+                {
+                    "referência": "Julho",
+                    "Litragem": 422937,
+                    "Rendimentos": 990212.23,
+                    "Vlr. Funrural": 1980.42,
+                    "Vlr. Frete": "Unnamed: 4"
+                }
+            ],
+            "mes08":[
+                {
+                    "referência": "Agosto",
+                    "Litragem": 422937,
+                    "Rendimentos": 990212.23,
+                    "Vlr. Funrural": 1980.42,
+                    "Vlr. Frete": "Unnamed: 4"
+                }
+            ]
         }
     ],
     "conta":[
