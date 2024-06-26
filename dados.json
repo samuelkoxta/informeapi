@@ -72,6 +72,14 @@
                     "Vlr. Funrural": 1980.42,
                     "Vlr. Frete": "Unnamed: 4"
                 }
+            ],
+            "total":[
+                {
+                    "Litragem": 2095084,
+                    "Rendimentos": 5555429.96,
+                    "Vlr. Funrural": 11110.86,
+                    "Vlr. Frete": 0.00
+                }
             ]
         }
     ],
